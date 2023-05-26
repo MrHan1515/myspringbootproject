@@ -5,7 +5,7 @@ package com.axtx.myspringbootproject.bean;
  * BelongPackage: com.axtx.myspringbootproject.bean
  * Author: hanxuesong
  * CreateTime: 2021-01-29
- * Description: todo
+ * Description: Bean
  */
 public class UserBean {
     private int id;
